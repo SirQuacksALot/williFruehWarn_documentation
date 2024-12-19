@@ -1,7 +1,6 @@
 ## WilliFrühWarn - Nutzungs Dokumentation
+> Disclamer - Warnhinweis
 ```
-! ACHTUNG - Disclamer !
-
 Der Inhaltes, welcher hier beschrieben wird, ist im Rahmen eines Studentischen Projektes Entstanden.
 Alle Inhalte sind nicht für den realen gebrauch gedacht und dienen nur zu demonstrations Zwecken.
 
