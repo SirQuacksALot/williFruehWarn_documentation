@@ -1,5 +1,5 @@
 ## WilliFrühWarn - Nutzungs Dokumentation
-> ### Warnhinweis
+> ### Warnhinweis ⚠️
 ```
 Der Inhaltes, welcher hier beschrieben wird, ist im Rahmen eines Studentischen Projektes Entstanden.
 Alle Inhalte sind nicht für den realen gebrauch gedacht und dienen nur zu demonstrations Zwecken.
@@ -9,10 +9,10 @@ Maleware zu Programmieren oder in Umlauf zu bringen. Bitte lassen Sie davon ab s
 zu Inspierieren eigene Maleware zu entwickeln und oder zu verbreiten.
 ```
 
-> ### Beschreibung
+> ### Beschreibung 🤔
 Der WilliFrühWarn ist eine als Metrik Agent getarnter Trojaner mit einer Reverseshell als Payload. Das Projekt rund um den Trojaner bietet C2 Umgebung als Docker Container, welche zur steuerung und interaktion mit der akiven Maleware dient. Geschrieben sind C2 umgebung und Maleware in Python.
 
-> ### Inhalte
+> ### Inhalte 🔗
 - [Installation](docs/installation.md)
   - [Server - C2](docs/c2.md)
   - [Client - Trojaner](docs/trojan.md)
