@@ -15,7 +15,7 @@ Das Projekt rund um den Trojaner bietet C2 Umgebung als Docker Container, welche
 interaktion mit der akiven Maleware dient. Geschrieben sind C2 umgebung und Maleware in Python.
 
 ### Inhalte
-- [Instalation]()
+- [Installation]()
   - [Server - C2]()
   - [Client - Trojaner]()
 - [Nutzung]()
