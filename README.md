@@ -14,4 +14,6 @@ zu Inspierieren eigene Maleware zu entwickeln und oder zu verbreiten.
 - [Instalation]()
   - [Server - C2]()
   - [Client - Trojaner]()
-- 
+- [Nutzung]()
+  - [Steuerung - Trojaner]()
+  - [Interaktion - Reverseshell]()
