@@ -10,4 +10,8 @@ Maleware zu Programmieren oder in Umlauf zu bringen. Bitte lassen Sie davon ab s
 zu Inspierieren eigene Maleware zu entwickeln und oder zu verbreiten.
 ```
 
-
+### Inhalte
+- [[Instalation]]
+  - [[Server - C2]] 
+  - [[Client - Trojaner]]
+- 
