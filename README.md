@@ -11,7 +11,7 @@ zu Inspierieren eigene Maleware zu entwickeln und oder zu verbreiten.
 ```
 
 ### Inhalte
-- [[Instalation]]
-  - [[Server - C2]] 
-  - [[Client - Trojaner]]
+- [Instalation]()
+  - [Server - C2]()
+  - [Client - Trojaner]()
 - 
